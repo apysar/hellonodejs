@@ -2,7 +2,7 @@ a {
   color: lightsalmon;
 }
 header {
-  background: red;
+  background: rgb(3, 3, 3);
   color: lightblue;
   padding: 15px;
   text-align: center;
@@ -29,7 +29,7 @@ body {
   font-family: "Arial", sans-serif; 
   font-style: oblique; 
   font-weight: bold; 
-  background-color: blue;
+  background-color: rgb(238, 255, 0);
   color : black;
 }.thumbnail {
   width: 80px;
