@@ -68,3 +68,19 @@ body {
   font-size: 30px;
   cursor: pointer;
 }
+.card {
+width: 150px;
+height: 150px;
+background-color: 1E1E1E;
+color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 10px;
+transition: 0.3s;
+cursor: pointer;
+}
+.card:hover {
+  background-color: #333;
+  transform: scale(1.05);
+}
